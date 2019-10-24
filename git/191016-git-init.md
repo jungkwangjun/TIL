@@ -10,7 +10,7 @@
 - `$ git clone <remote repo url>`
 
 ## 3. TEST
-- testtest
+- testtesttest
 
 ## TODO
 - programming session by doojin park
